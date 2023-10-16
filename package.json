@@ -1,0 +1,14 @@
+{
+  "name": "quete-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BankCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khaled Bribri",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.1.0"
+  }
+}
